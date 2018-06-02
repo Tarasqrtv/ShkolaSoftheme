@@ -1,0 +1,15 @@
+﻿<Window x:Class="GameHW6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameHW6"
+        mc:Ignorable="d"
+        Title="Game" Height="165.714" Width="223.59" WindowStartupLocation="CenterScreen">
+	<Grid Margin="0,0,0,3">
+		<Button x:Name="infobtn" Content="About" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="196" Click="infobtn_Click" Height="33"/>
+		<TextBox x:Name="digittbx" HorizontalAlignment="Left" Height="35" Margin="10,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
+		<Button x:Name="Startbtn" Content="Start" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" Width="196" Click="Startbtn_Click" Height="36"/>
+
+	</Grid>
+</Window>

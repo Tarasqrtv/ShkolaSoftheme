@@ -1,0 +1,7 @@
+E:\ShkolaSoftheme\CSharp\4\ConsoleHW4_1\ConsoleHW4_1\bin\Debug\ConsoleHW4_1.exe.config
+E:\ShkolaSoftheme\CSharp\4\ConsoleHW4_1\ConsoleHW4_1\bin\Debug\ConsoleHW4_1.exe
+E:\ShkolaSoftheme\CSharp\4\ConsoleHW4_1\ConsoleHW4_1\bin\Debug\ConsoleHW4_1.pdb
+E:\ShkolaSoftheme\CSharp\4\ConsoleHW4_1\ConsoleHW4_1\obj\Debug\ConsoleHW4_1.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\CSharp\4\ConsoleHW4_1\ConsoleHW4_1\obj\Debug\ConsoleHW4_1.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\CSharp\4\ConsoleHW4_1\ConsoleHW4_1\obj\Debug\ConsoleHW4_1.exe
+E:\ShkolaSoftheme\CSharp\4\ConsoleHW4_1\ConsoleHW4_1\obj\Debug\ConsoleHW4_1.pdb

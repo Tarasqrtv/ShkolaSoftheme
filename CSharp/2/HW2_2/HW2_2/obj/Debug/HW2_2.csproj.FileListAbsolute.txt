@@ -1,0 +1,7 @@
+E:\Internatura2018\Csharp\HW2_2\HW2_2\bin\Debug\HW2_2.exe.config
+E:\Internatura2018\Csharp\HW2_2\HW2_2\bin\Debug\HW2_2.exe
+E:\Internatura2018\Csharp\HW2_2\HW2_2\bin\Debug\HW2_2.pdb
+E:\Internatura2018\Csharp\HW2_2\HW2_2\obj\Debug\HW2_2.csprojAssemblyReference.cache
+E:\Internatura2018\Csharp\HW2_2\HW2_2\obj\Debug\HW2_2.csproj.CoreCompileInputs.cache
+E:\Internatura2018\Csharp\HW2_2\HW2_2\obj\Debug\HW2_2.exe
+E:\Internatura2018\Csharp\HW2_2\HW2_2\obj\Debug\HW2_2.pdb

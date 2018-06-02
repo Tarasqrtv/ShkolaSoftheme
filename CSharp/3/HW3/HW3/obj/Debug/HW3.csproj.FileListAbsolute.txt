@@ -1,0 +1,15 @@
+E:\ShkolaSoftheme\HW3\HW3\bin\Debug\HW3.exe.config
+E:\ShkolaSoftheme\HW3\HW3\bin\Debug\HW3.exe
+E:\ShkolaSoftheme\HW3\HW3\bin\Debug\HW3.pdb
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\MainWindow.g.cs
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\App.g.cs
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3_MarkupCompile.cache
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3_MarkupCompile.lref
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\MainWindow.baml
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3.g.resources
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3.Properties.Resources.resources
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3.csproj.GenerateResource.cache
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3.exe
+E:\ShkolaSoftheme\HW3\HW3\obj\Debug\HW3.pdb

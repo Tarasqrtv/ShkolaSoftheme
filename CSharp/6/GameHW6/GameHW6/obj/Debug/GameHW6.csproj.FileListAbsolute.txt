@@ -1,0 +1,15 @@
+E:\ShkolaSoftheme\GameHW6\GameHW6\bin\Debug\GameHW6.exe.config
+E:\ShkolaSoftheme\GameHW6\GameHW6\bin\Debug\GameHW6.exe
+E:\ShkolaSoftheme\GameHW6\GameHW6\bin\Debug\GameHW6.pdb
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\MainWindow.g.cs
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\App.g.cs
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6_MarkupCompile.cache
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6_MarkupCompile.lref
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\MainWindow.baml
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6.g.resources
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6.Properties.Resources.resources
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6.csproj.GenerateResource.cache
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6.exe
+E:\ShkolaSoftheme\GameHW6\GameHW6\obj\Debug\GameHW6.pdb

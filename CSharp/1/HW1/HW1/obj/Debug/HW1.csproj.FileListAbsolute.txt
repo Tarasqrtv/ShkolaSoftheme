@@ -1,0 +1,6 @@
+E:\Internatura2018\Csharp\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+E:\Internatura2018\Csharp\HW1\HW1\bin\Debug\HW1.exe.config
+E:\Internatura2018\Csharp\HW1\HW1\bin\Debug\HW1.exe
+E:\Internatura2018\Csharp\HW1\HW1\bin\Debug\HW1.pdb
+E:\Internatura2018\Csharp\HW1\HW1\obj\Debug\HW1.exe
+E:\Internatura2018\Csharp\HW1\HW1\obj\Debug\HW1.pdb
