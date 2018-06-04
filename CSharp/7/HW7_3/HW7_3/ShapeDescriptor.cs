@@ -76,6 +76,7 @@ namespace HW7_3
 	}
 	static class Point
 	{
+		//типу _x(x,y) _y(x,y) мій велосипед(просто щоб не було як у всіх, а щось інше)
 		public static int _x;
 		public static int _y;
 		public static int _z;
