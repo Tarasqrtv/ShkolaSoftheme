@@ -1,1 +1,1 @@
-export const user = { name : "Vitaliy", lastName: "Khmelko" }
+export const user = { name : "Taras", lastName: "Fedorenko" }
