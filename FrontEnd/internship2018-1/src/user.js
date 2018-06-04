@@ -1,1 +1,0 @@
-export const user = { name : "Taras", lastName: "Fedorenko" }
