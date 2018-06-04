@@ -1,0 +1,7 @@
+E:\ShkolaSoftheme\CSharp\5\ConsolePaintingHW5\ConsolePaintingHW5\bin\Debug\ConsolePaintingHW5.exe.config
+E:\ShkolaSoftheme\CSharp\5\ConsolePaintingHW5\ConsolePaintingHW5\bin\Debug\ConsolePaintingHW5.exe
+E:\ShkolaSoftheme\CSharp\5\ConsolePaintingHW5\ConsolePaintingHW5\bin\Debug\ConsolePaintingHW5.pdb
+E:\ShkolaSoftheme\CSharp\5\ConsolePaintingHW5\ConsolePaintingHW5\obj\Debug\ConsolePaintingHW5.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\CSharp\5\ConsolePaintingHW5\ConsolePaintingHW5\obj\Debug\ConsolePaintingHW5.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\CSharp\5\ConsolePaintingHW5\ConsolePaintingHW5\obj\Debug\ConsolePaintingHW5.exe
+E:\ShkolaSoftheme\CSharp\5\ConsolePaintingHW5\ConsolePaintingHW5\obj\Debug\ConsolePaintingHW5.pdb

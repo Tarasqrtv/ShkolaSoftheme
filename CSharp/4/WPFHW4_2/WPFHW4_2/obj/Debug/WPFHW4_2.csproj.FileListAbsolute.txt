@@ -1,0 +1,15 @@
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\bin\Debug\WPFHW4_2.exe.config
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\bin\Debug\WPFHW4_2.exe
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\bin\Debug\WPFHW4_2.pdb
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\MainWindow.g.cs
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\App.g.cs
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2_MarkupCompile.cache
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2_MarkupCompile.lref
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\MainWindow.baml
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2.g.resources
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2.Properties.Resources.resources
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2.csproj.GenerateResource.cache
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2.exe
+E:\ShkolaSoftheme\CSharp\4\WPFHW4_2\WPFHW4_2\obj\Debug\WPFHW4_2.pdb

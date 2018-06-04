@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFHW4_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFHW4_2"
+        mc:Ignorable="d"
+        Title="Your Zodiac App" Height="399.334" Width="276" WindowStartupLocation="CenterScreen">
+	<Grid>
+		<Label x:Name="birthdaylabel" Content="Date of birth" HorizontalAlignment="Left" Margin="84,10,0,284" RenderTransformOrigin="0.256,-0.841" Width="90" FontSize="14"/>
+		<Label x:Name="daylbl" Content="day" HorizontalAlignment="Left" Margin="14,47,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.256,-0.841" Width="36" FontSize="14"/>
+		<Label x:Name="monthlbl" Content="month" HorizontalAlignment="Left" Margin="73,47,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.256,-0.841" Width="52" FontSize="14"/>
+		<Label x:Name="yearlbl" Content="year" HorizontalAlignment="Left" Margin="159,47,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.256,-0.841" Width="36" FontSize="14"/>
+		<TextBox x:Name="daytbx" HorizontalAlignment="Left" Height="23" Margin="44,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="29"/>
+		<TextBox x:Name="monthtbx" HorizontalAlignment="Left" Height="23" Margin="125,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="29"/>
+		<TextBox x:Name="yeartbx" HorizontalAlignment="Left" Height="23" Margin="195,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58"/>
+		<Button x:Name="Submitbtn" Content="Submit" HorizontalAlignment="Left" Margin="14,81,0,0" VerticalAlignment="Top" Width="239" Height="24" FontSize="14" Click="Submitbtn_Click"/>
+		<Label x:Name="imglbl" HorizontalAlignment="Left" Margin="14,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.256,-0.841" Width="239" FontSize="14" Height="206"/>
+
+	</Grid>
+</Window>
