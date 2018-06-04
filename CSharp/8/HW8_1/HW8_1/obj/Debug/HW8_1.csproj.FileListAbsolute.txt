@@ -4,3 +4,4 @@ E:\ShkolaSoftheme\CSharp\8\HW8_1\HW8_1\bin\Debug\HW8_1.pdb
 E:\ShkolaSoftheme\CSharp\8\HW8_1\HW8_1\obj\Debug\HW8_1.csproj.CoreCompileInputs.cache
 E:\ShkolaSoftheme\CSharp\8\HW8_1\HW8_1\obj\Debug\HW8_1.exe
 E:\ShkolaSoftheme\CSharp\8\HW8_1\HW8_1\obj\Debug\HW8_1.pdb
+E:\ShkolaSoftheme\CSharp\8\HW8_1\HW8_1\obj\Debug\HW8_1.csprojAssemblyReference.cache
