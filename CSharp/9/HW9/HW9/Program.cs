@@ -6,7 +6,11 @@ namespace HW9
 	{
 		static void Main(string[] args)
 		{
+<<<<<<< HEAD
 			var car = CarConstructor.Construct(Model.M1, Engine.engine1, Color.black, Transmission.transmission1);
+=======
+			var car = CarConstructor.Construct(Model.model1, Engine.engine1, Color.black, Taransmission.transmission1);
+>>>>>>> mypull
 
 			Console.WriteLine(car);
 

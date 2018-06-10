@@ -4,7 +4,13 @@
 	{
 		green,
 		red,
+<<<<<<< HEAD
 		black,
 		blue
 	}
 }
+=======
+		black
+	}
+}
+>>>>>>> mypull
