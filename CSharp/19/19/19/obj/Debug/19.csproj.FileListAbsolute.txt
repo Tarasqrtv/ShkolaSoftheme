@@ -1,0 +1,7 @@
+E:\ShkolaSoftheme\CSharp\19\19\19\bin\Debug\19.exe.config
+E:\ShkolaSoftheme\CSharp\19\19\19\bin\Debug\19.exe
+E:\ShkolaSoftheme\CSharp\19\19\19\bin\Debug\19.pdb
+E:\ShkolaSoftheme\CSharp\19\19\19\obj\Debug\19.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\CSharp\19\19\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\CSharp\19\19\19\obj\Debug\19.exe
+E:\ShkolaSoftheme\CSharp\19\19\19\obj\Debug\19.pdb

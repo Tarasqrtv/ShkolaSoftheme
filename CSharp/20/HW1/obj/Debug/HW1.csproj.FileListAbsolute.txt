@@ -1,0 +1,7 @@
+C:\Users\Taras\Desktop\ShkolaSoftheme-master (1)\ShkolaSoftheme-master\CSharpHW\20\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
+C:\Users\Taras\Desktop\ShkolaSoftheme-master (1)\ShkolaSoftheme-master\CSharpHW\20\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\Taras\Desktop\ShkolaSoftheme-master (1)\ShkolaSoftheme-master\CSharpHW\20\HW1\bin\Debug\HW1.exe.config
+C:\Users\Taras\Desktop\ShkolaSoftheme-master (1)\ShkolaSoftheme-master\CSharpHW\20\HW1\bin\Debug\HW1.exe
+C:\Users\Taras\Desktop\ShkolaSoftheme-master (1)\ShkolaSoftheme-master\CSharpHW\20\HW1\bin\Debug\HW1.pdb
+C:\Users\Taras\Desktop\ShkolaSoftheme-master (1)\ShkolaSoftheme-master\CSharpHW\20\HW1\obj\Debug\HW1.exe
+C:\Users\Taras\Desktop\ShkolaSoftheme-master (1)\ShkolaSoftheme-master\CSharpHW\20\HW1\obj\Debug\HW1.pdb

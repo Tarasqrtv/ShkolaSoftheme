@@ -1,0 +1,7 @@
+E:\ShkolaSoftheme\CSharp\16\HW16\HW16\bin\Debug\HW16.exe.config
+E:\ShkolaSoftheme\CSharp\16\HW16\HW16\bin\Debug\HW16.exe
+E:\ShkolaSoftheme\CSharp\16\HW16\HW16\bin\Debug\HW16.pdb
+E:\ShkolaSoftheme\CSharp\16\HW16\HW16\obj\Debug\HW16.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\CSharp\16\HW16\HW16\obj\Debug\HW16.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\CSharp\16\HW16\HW16\obj\Debug\HW16.exe
+E:\ShkolaSoftheme\CSharp\16\HW16\HW16\obj\Debug\HW16.pdb

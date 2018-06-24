@@ -1,0 +1,7 @@
+E:\ShkolaSoftheme\CSharp\18\HW1\HW2\bin\Debug\HW2.exe.config
+E:\ShkolaSoftheme\CSharp\18\HW1\HW2\bin\Debug\HW2.exe
+E:\ShkolaSoftheme\CSharp\18\HW1\HW2\bin\Debug\HW2.pdb
+E:\ShkolaSoftheme\CSharp\18\HW1\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+E:\ShkolaSoftheme\CSharp\18\HW1\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+E:\ShkolaSoftheme\CSharp\18\HW1\HW2\obj\Debug\HW2.exe
+E:\ShkolaSoftheme\CSharp\18\HW1\HW2\obj\Debug\HW2.pdb
