@@ -1,0 +1,6 @@
+<div class="container">
+	<h4>{{ favoriteMessage }}</h4>
+	<div *ngFor="let item of books">
+		<book-details [book]="item" (favoriteClicked)="addToFavorites($event)"></book-details>
+	</div>
+</div>
